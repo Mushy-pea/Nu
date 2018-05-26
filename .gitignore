@@ -48,3 +48,17 @@ refinement/
 #########
 packages/
 !packages/repositories.config
+*.png
+*.config
+*.lock
+*.ide
+*.ide-shm
+*.nueffect
+*.ogg
+*.ttf
+*.ide-wal
+*.wav
+*.tmx
+*.htm
+*.fsproj
+NuGame1/Program.fs

@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nu", "Nu\Nu\Nu.fsproj", "{A7A6F758-E122-4C2C-9525-1F29802D007C}"
 EndProject
@@ -29,6 +29,8 @@ EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BlazeVector", "Projects\BlazeVector\BlazeVector.fsproj", "{516010F3-7BDC-4D92-A4B3-38ECFEC429A8}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "InfinityRpg", "Projects\InfinityRpg\InfinityRpg.fsproj", "{DCE0536A-59E0-4AB5-86C5-EE919E430583}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Maze Game 2", "Projects\Maze Game 2\Maze Game 2.fsproj", "{57203AE5-4967-4840-8CF3-B258525E3136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,8 +76,15 @@ Global
 		{DCE0536A-59E0-4AB5-86C5-EE919E430583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCE0536A-59E0-4AB5-86C5-EE919E430583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCE0536A-59E0-4AB5-86C5-EE919E430583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57203AE5-4967-4840-8CF3-B258525E3136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57203AE5-4967-4840-8CF3-B258525E3136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57203AE5-4967-4840-8CF3-B258525E3136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57203AE5-4967-4840-8CF3-B258525E3136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029498F9-E7C6-43AB-9327-D1906B973A48}
 	EndGlobalSection
 EndGlobal
